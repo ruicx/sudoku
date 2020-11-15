@@ -10,7 +10,7 @@ MATLAB sudoku / 数独
 | sudoku_export.m    | export file            |
 
 Screenshot:
-![](screenshots/screenshot.png)
+![screenshot](./screenshots/screenshot.png?raw=true)
 
 ### Run
 
